@@ -1,0 +1,7 @@
+Recipe from saransh
+
+
+1.goto dominos
+2.select pizza
+3.order
+
